@@ -14,3 +14,11 @@
 
 ## Установка
 
+python3 -m venv venv              создаем виртуальное окружение.
+
+source venv/bin/activate          активация виртуального окружения.
+
+pip install -r requirements.txt   устанавливаем зависимости.
+
+
+## Маршруты
